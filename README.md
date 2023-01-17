@@ -2,4 +2,4 @@
 This is the mini proj with js for wheather according to current location with api calling
 
 
-HERE IS THE CODE PEN <a href="https://codepen.io/sukhepadda/full/JjBrXEj" target="_blank">LINK</a>
+HERE IS THE CODE PEN <a href="https://codepen.io/sukhepadda/full/JjBrXEj" target="_blank" >LINK</a>
