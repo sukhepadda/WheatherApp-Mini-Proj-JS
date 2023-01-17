@@ -1,0 +1,18 @@
+body{
+    background-color: #92b1b6;
+    text-align: center;
+}
+.container{
+    margin-top: 100px;
+}
+.container > h1{
+    font-size: 62px;
+    font-weight: 800;
+    color: blue;
+}
+.container > p{
+    font-size: 22px;
+    margin-top: -30px;
+    color: red;
+}
+
