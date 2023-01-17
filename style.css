@@ -15,4 +15,42 @@ body{
     margin-top: -30px;
     color: red;
 }
-
+.locationData{
+    color: darkblue;
+    margin-top: 60px;
+    font-size: 42px;
+    
+}
+.tempData{
+    color: purple;
+    font-size: 62px;
+    margin-top: -20px;
+}
+#getLocationBtn{
+    height: 50px;
+    width: 180px;
+    font-size: 22px;
+    padding: 10px;
+    color: green;
+    font-weight: 600;
+    margin-top: 30px;
+    background-color: ;
+    border: none;
+    border-radius: 8px;
+}
+#getLocationBtn:hover{
+    cursor: pointer;
+    background-color: rgba(74, 218, 74, 0.747);
+    color: blue;
+}
+.errorData{
+    color: red;
+    margin-top: 40px;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+.loadingData{
+    font-size: 32px;
+    color: rgb(2, 57, 59);
+    margin-top: 40px;
+}
