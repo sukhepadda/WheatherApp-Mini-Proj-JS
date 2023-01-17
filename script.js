@@ -1,3 +1,4 @@
+//pls note that if api not working that means its expires because its from the free account you can create account on https://api.weatherapi.com and use your own key.
 // console.log('hello world')
 
 let showResult = document.querySelector("#showResult");
